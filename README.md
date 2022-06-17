@@ -6,8 +6,7 @@ Hello, I'm Patrick Ceron
 <div align="center">
   <a href="https://github.com/PatrickCeron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickCeron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCeron&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
   
   
 <div style="display: inline_block"><br>
