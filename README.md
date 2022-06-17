@@ -1,7 +1,7 @@
 ## Hello, I'm Patrick Ceron
 
-- Cursando ciência da computação
-- Atualmente estudando java
+- studying computer science
+- currently studying java
 
 
   #### Tecnologias que estou utilizando
